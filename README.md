@@ -1,5 +1,3 @@
-# Here's the content of the README.md file as requested.
-
 # Project Structure Exporter
 
 **Project Structure Exporter** is a Go tool that exports the directory structure of a project into a text file, ignoring directories and files specified in an `export.txt` file (similar to a `.gitignore` file). This is especially useful for documenting or analyzing a project’s structure without including unnecessary or temporary files and directories.
